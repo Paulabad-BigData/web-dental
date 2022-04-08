@@ -1,6 +1,10 @@
-# Título del Proyecto
+# Pagina Web: Tecnico Dental
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Creada para mostrar el trabajo de un Tecnico Dental a sus clientes._
+
+## Enlace al Sitio Web :globe_with_meridians:
+
+[Tecnico Dental](https://dentalweb-pro.web.app/) _https://dentalweb-pro.web.app/_
 
 ## Comenzando 🚀
 
@@ -83,10 +87,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Paula Abad** - *Proyecto Completo* - [Paula Abad](https://github.com/Paulabad-BigData)
 
 ## Licencia 📄
 
@@ -97,10 +98,8 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con :purple_heart: por [Paula Abad](https://github.com/Paulabad-BigData) 😊
